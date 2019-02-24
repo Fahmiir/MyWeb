@@ -117,12 +117,12 @@ function myFunction(){
 	         },
 	    type:'post',
 	    cache:false,
-	    success:function(){
+	    /* success:function(){
 	    	alert('sucsess');
 	    },
 	    error:function(){
 	    	alert('error');
-	    }     
+	    } */     
 	});
 }  
   
